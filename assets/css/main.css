@@ -2675,6 +2675,15 @@ input, select, textarea {
 			-ms-transform: scale(1.05);
 			transform: scale(1.05);
 		}
+    
+    .bordered-feature-image {
+      display: block;
+      background: #680000;
+      padding: 10px;
+      box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
+      margin: 0 0 1.5em 0;
+      outline: 0;
+    }
 
 /* Actions */
 
